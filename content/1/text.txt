@@ -1,0 +1,4 @@
+Musical Mechatronics Project
+Te Herenga Waka Victoria University of Wellington
+This semester long individual project that involved the creation of a novel musical instrument created by connecting electronic and mechanical components to a slide whistle uses MIDI input signals from a digital audio workstation and a closed loop feedback control system using a microphone to produce repeatable, in tune pitch that can be used in music creation. A video of a creative application with this instrument can be found below
+Creative Application,https://www.youtube.com/watch?v=wp8gQlbr2_s
