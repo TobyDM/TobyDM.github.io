@@ -46,6 +46,10 @@ with tag('html'):
                 with tag('div',('class','homepage')):
                     with tag('h1'):
                         text("Toby Moss Darci-Maher Portfolio")
+                    with tag('h5'):
+                        text("A multi-disciplinary portfolio displaying creative and technical projects from the past several years.") 
+                    with tag('h5'):
+                        text("Contact me via email at toby.darcimaher@gmail.com")
                     with tag('h4'):
                         for i in range(1, numproj):
                             contenti = content(i)
